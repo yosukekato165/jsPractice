@@ -15,3 +15,6 @@ console.log(ZERO ?? ONE);
 
 // console 0
 console.log(ZERO ?? null);
+
+// console {}
+console.log({} ?? null);
